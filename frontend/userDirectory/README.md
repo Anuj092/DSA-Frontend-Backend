@@ -2,6 +2,8 @@
 
 A React application that fetches and displays user data from the reqres.in API with search, sort, filter, and pagination features.
 
+# Deployed Link: https://user-directory-ten-kohl.vercel.app/
+
 ## Features
 
 ✅ **Fetch & Display**: Retrieves user data from reqres.in API and displays in a clean table format  
